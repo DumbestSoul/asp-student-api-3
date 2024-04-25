@@ -1,0 +1,11 @@
+E:\C#\C#_REPOS\Student.API\Student.ViewModel\bin\Debug\net8.0\Student.ViewModel.deps.json
+E:\C#\C#_REPOS\Student.API\Student.ViewModel\bin\Debug\net8.0\Student.ViewModel.dll
+E:\C#\C#_REPOS\Student.API\Student.ViewModel\bin\Debug\net8.0\Student.ViewModel.pdb
+E:\C#\C#_REPOS\Student.API\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\Student.API\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\Student.API\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.AssemblyInfo.cs
+E:\C#\C#_REPOS\Student.API\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\Student.API\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.dll
+E:\C#\C#_REPOS\Student.API\Student.ViewModel\obj\Debug\net8.0\refint\Student.ViewModel.dll
+E:\C#\C#_REPOS\Student.API\Student.ViewModel\obj\Debug\net8.0\Student.ViewModel.pdb
+E:\C#\C#_REPOS\Student.API\Student.ViewModel\obj\Debug\net8.0\ref\Student.ViewModel.dll

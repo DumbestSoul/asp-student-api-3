@@ -1,0 +1,14 @@
+E:\C#\C#_REPOS\Student.API\Student.Entity\bin\Debug\net8.0\Student.Entity.deps.json
+E:\C#\C#_REPOS\Student.API\Student.Entity\bin\Debug\net8.0\Student.Entity.runtimeconfig.json
+E:\C#\C#_REPOS\Student.API\Student.Entity\bin\Debug\net8.0\Student.Entity.dll
+E:\C#\C#_REPOS\Student.API\Student.Entity\bin\Debug\net8.0\Student.Entity.pdb
+E:\C#\C#_REPOS\Student.API\Student.Entity\obj\Debug\net8.0\Student.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\Student.API\Student.Entity\obj\Debug\net8.0\Student.Entity.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\Student.API\Student.Entity\obj\Debug\net8.0\Student.Entity.AssemblyInfo.cs
+E:\C#\C#_REPOS\Student.API\Student.Entity\obj\Debug\net8.0\Student.Entity.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\Student.API\Student.Entity\obj\Debug\net8.0\Student.Entity.dll
+E:\C#\C#_REPOS\Student.API\Student.Entity\obj\Debug\net8.0\refint\Student.Entity.dll
+E:\C#\C#_REPOS\Student.API\Student.Entity\obj\Debug\net8.0\Student.Entity.pdb
+E:\C#\C#_REPOS\Student.API\Student.Entity\obj\Debug\net8.0\Student.Entity.genruntimeconfig.cache
+E:\C#\C#_REPOS\Student.API\Student.Entity\obj\Debug\net8.0\ref\Student.Entity.dll
+E:\C#\C#_REPOS\Student.API\Student.Entity\obj\Debug\net8.0\Student.Entity.csproj.AssemblyReference.cache

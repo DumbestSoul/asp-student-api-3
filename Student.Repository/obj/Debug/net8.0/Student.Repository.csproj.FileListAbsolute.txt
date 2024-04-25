@@ -1,0 +1,17 @@
+E:\C#\C#_REPOS\Student.API\Student.Repository\bin\Debug\net8.0\Student.Repository.deps.json
+E:\C#\C#_REPOS\Student.API\Student.Repository\bin\Debug\net8.0\Student.Repository.dll
+E:\C#\C#_REPOS\Student.API\Student.Repository\bin\Debug\net8.0\Student.Repository.pdb
+E:\C#\C#_REPOS\Student.API\Student.Repository\bin\Debug\net8.0\Student.Entity.dll
+E:\C#\C#_REPOS\Student.API\Student.Repository\bin\Debug\net8.0\Student.Entity.pdb
+E:\C#\C#_REPOS\Student.API\Student.Repository\obj\Debug\net8.0\Student.Repository.csproj.AssemblyReference.cache
+E:\C#\C#_REPOS\Student.API\Student.Repository\obj\Debug\net8.0\Student.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\Student.API\Student.Repository\obj\Debug\net8.0\Student.Repository.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\Student.API\Student.Repository\obj\Debug\net8.0\Student.Repository.AssemblyInfo.cs
+E:\C#\C#_REPOS\Student.API\Student.Repository\obj\Debug\net8.0\Student.Repository.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\Student.API\Student.Repository\obj\Debug\net8.0\Student..6F35DB41.Up2Date
+E:\C#\C#_REPOS\Student.API\Student.Repository\obj\Debug\net8.0\Student.Repository.dll
+E:\C#\C#_REPOS\Student.API\Student.Repository\obj\Debug\net8.0\refint\Student.Repository.dll
+E:\C#\C#_REPOS\Student.API\Student.Repository\obj\Debug\net8.0\Student.Repository.pdb
+E:\C#\C#_REPOS\Student.API\Student.Repository\obj\Debug\net8.0\ref\Student.Repository.dll
+E:\C#\C#_REPOS\Student.API\Student.Repository\bin\Debug\net8.0\Student.ViewModel.dll
+E:\C#\C#_REPOS\Student.API\Student.Repository\bin\Debug\net8.0\Student.ViewModel.pdb
